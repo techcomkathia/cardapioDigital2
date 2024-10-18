@@ -4,11 +4,12 @@
     - Acompanhamentos
     - Bebidas
 
-CARDÁPIO DIGITAL
+CARDÁPIO DIGITAL (título principal)
+ 
+HAMBURGUERES (título secundário)
 
-HAMBURGUERES
-
-[HAMBÚRGUER 1]
+(primeiro card de produto)
+[ imagem HAMBÚRGUER 1]
     - Clássico Angus Burger - R$22,50
     - Descrição: Delicie-se com o nosso Hambúrguer Clássico, feito com um suculento hambúrguer de carne angus, queijo derretido, alface crocante, tomate fresco e um toque especial do nosso molho secreto. Perfeito para saciar sua fome!
 
