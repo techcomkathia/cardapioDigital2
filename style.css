@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color:#ffffff
 }
 
 /* definir as variáveis globais */
@@ -16,3 +17,29 @@
 body{
     background-image: url(imagens/bg.png);
 }
+
+header{
+    background-color: var(--corNavegacao);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 25px;
+}
+
+a{
+    text-decoration: none;
+    color: var(--corTextos);
+    font-size: 20px;
+    margin: 10px;
+}
+
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 25px;
+}
+
