@@ -43,3 +43,46 @@ section{
     padding: 25px;
 }
 
+.boxProduto{
+    background-color: var(--corCards);
+    display: flex;
+    /* flex-wrap: wrap; */
+    width: 890px;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.boxTexto{
+    width: 400px;
+}
+
+h1, h2, h3, p, button{
+    margin: 15px;
+}
+
+h1{
+    font-size: 35px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2{
+    color: var(--corBotaoTitulos);
+    text-transform: uppercase;
+}
+
+.logo{
+    width: 250px;
+}
+
+.boxImagem{
+    width: 400px;
+}
+
+button{
+    background-color: var(--corBotaoTitulos);
+    width: 150px;
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+}
