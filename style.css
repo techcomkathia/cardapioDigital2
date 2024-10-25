@@ -5,6 +5,10 @@
     color:#ffffff
 }
 
+.roxo{
+    color: purple;
+}
+
 /* definir as variáveis globais */
 
 :root{
@@ -50,6 +54,7 @@ section{
     display: flex;
     flex-wrap: wrap;
     max-width: 890px;
+    justify-content: center;
     align-items: center;
     border-radius: 20px;
     margin: 15px 0px;
